@@ -1,1 +1,3 @@
-# Curso de Java para consolidar os conhecimentos transmitidos em sala de aula
+# Curso de Java
+##
+- Realizando curso de Java para aprofundar os estudos em POO
